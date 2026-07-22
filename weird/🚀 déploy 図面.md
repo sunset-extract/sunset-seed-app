@@ -1,0 +1,1 @@
+emoji + accents + CJK
